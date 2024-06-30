@@ -164,7 +164,7 @@
 %                Configuration for fonts
 %-------------------------------------------------------------------------------
 % https://github.com/posquit0/Awesome-CV/issues/114#issuecomment-687042879  
-https://github.com/posquit0/Awesome-CV/issues/109#issuecomment-282458813
+% https://github.com/posquit0/Awesome-CV/issues/109#issuecomment-282458813
 \usepackage{xeCJK}
 \newcommand*{\headerfont}{\roboto}
 \newcommand*{\headerfontlight}{\robotolight}
